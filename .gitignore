@@ -1,0 +1,9 @@
+# Ignore .env files
+.env
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore .pem files
+*.pem
+
